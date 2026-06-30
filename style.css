@@ -1,0 +1,20 @@
+body{
+    background-color:#D9F9DF ;
+}
+header{
+    display: flex;
+}
+h1{
+    color:#AEE2FF;
+    font-size:60px ;
+    text-align: center;
+}
+p{
+    color: #8CC0EB;
+    font-size: 40px;
+    text-align: center;
+}
+img{
+    width: 60%;
+    margin-left: 225px;
+}
